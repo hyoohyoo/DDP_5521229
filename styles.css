@@ -1,0 +1,21 @@
+.header {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#hihihihi {
+    list-style: none;
+    padding: 10px;
+    background-color: bisque;
+}
+
+#hihihihi ul li {
+    display: inline;
+    font-style: inherit;
+    border: 20cm; 
+    text-align: center;
+}
+
+#hihihihi ul li a {
+    color: #000;
+}
